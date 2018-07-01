@@ -1,3 +1,3 @@
-# Nervos AppChain Docs
+# CITA Docs
 
-This is the documentent site for Nervos AppChain.
+A temp repo for storing CITA docs.
