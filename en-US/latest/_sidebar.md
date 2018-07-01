@@ -9,14 +9,14 @@
     - [Quota Management ](en-US/latest/system_management/quota.md)
     - [Log Management](en-US/latest/system_management/log.md)
     - [Snapshot](en-US/latest/system_management/snapshot.md)
-- CITA Architecture
-    - [Overall Architecture](en-US/latest/architecture/architecture.md)
-    - [Components](en-US/latest/architecture/components.md)
 - Json-RPC Guide
     - [Json-RPC List](en-US/latest/rpc_guide/rpc.md)
     - [Json-RPC Parameters and Returns](en-US/latest/rpc_guide/rpc.md)
     - [Json-RPC Error Code](en-US/latest/rpc_guide/rpc_error_code.md)
 - [Transaction Tools](en-US/latest/txtool.md)
+- CITA Architecture
+    - [Overall Architecture](en-US/latest/architecture/architecture.md)
+    - [Components](en-US/latest/architecture/components.md)
 - Reference
     - [Glossary](en-US/latest/reference/glossary.md)
     - [FAQ](en-US/latest/reference/faq.md)

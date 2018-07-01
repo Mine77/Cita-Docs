@@ -9,14 +9,14 @@
     - [配额管理](zh-CN/latest/system_management/quota.md)
     - [日志管理](zh-CN/latest/system_management/log.md)
     - [备份管理](zh-CN/latest/system_management/snapshot.md)
-- 架构设计
-    - [整体架构](zh-CN/latest/architecture/architecture.md)
-    - [系统组件](zh-CN/latest/architecture/components.md)
 - Json-RPC指南
     - [Json-RPC列表](zh-CN/latest/rpc_guide/rpc.md)
     - [Json-RPC参数和返回值类型](zh-CN/latest/rpc_guide/rpc-types.md)
     - [Json-RPC错误码](zh-CN/latest/rpc_guide/rpc_error_code.md)
 - [交易相关的工具指南](zh-CN/latest/txtool.md)
+- 架构设计
+    - [整体架构](zh-CN/latest/architecture/architecture.md)
+    - [系统组件](zh-CN/latest/architecture/components.md)
 - 参考
     - [词汇表](zh-CN/latest/reference/glossary.md)
     - [FAQ](zh-CN/latest/reference/faq.md)
