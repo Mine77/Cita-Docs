@@ -1,8 +1,8 @@
 <!-- the following part should be indentical to https://raw.githubusercontent.com/cryptape/Nervos-Docs/master/_navbar.md -->
-* Nervos
-  * [Nervos Network](https://cryptape.github.io/Nervos-Docs)
+* [Nervos](https://cryptape.github.io/Nervos-Docs)
   * [AppChain](https://cryptape.github.io/Nervos-AppChain-Docs/)
-  * CITA
+  * [CITA](http://www.haichaozhu.com/Cita-Docs/)
+  * [Neuron](https://cryptape.github.io/Neuron-Android/#/)
 <!-- the above part should be indentical to https://raw.githubusercontent.com/cryptape/Nervos-Docs/master/_navbar.md -->
 * Version
   * [latest](en-US/latest/index.md)
